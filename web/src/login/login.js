@@ -35,8 +35,8 @@ class Login extends React.Component{
                             </div>
                             <div className='flxBox'>
                                 <div className='flxBox centerVer'>
-                                    <button className='custom-btn btn16 mgR5'>Sign In</button>
-                                    <button className='custom-btn btn16'>Sign Up</button>
+                                    <button className='custom-btn btn16 mgR5'>SIGN IN</button>
+                                    <button className='custom-btn btn16'>SIGN UP</button>
 
                                 </div>
                             </div>
