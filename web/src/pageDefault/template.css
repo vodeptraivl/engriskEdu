@@ -13,4 +13,5 @@
     height: calc(100vh - var(--headerHeight));
     margin: 0 auto;
     margin-top: var(--headerHeight);
+    display: flex;
 }

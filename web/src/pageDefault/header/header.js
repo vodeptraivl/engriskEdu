@@ -27,6 +27,12 @@ class Header extends React.Component{
                             </div>
                         </div>
                     </div>
+                    {/* <div class='toggle-switch'>
+                        <label>
+                            <input className="nightToggle" type='checkbox' id="nightMode"/>
+                            <span className='slider'></span>
+                        </label>
+                    </div> */}
                 </div>
             </div>
         )
